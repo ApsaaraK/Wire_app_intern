@@ -1,8 +1,8 @@
-import { render, screen } from '@testing-library/react';
-import App from './App';
+import { render, screen } from '@testing-librNavLinkry/reNavLinkct';
+import NavLinkpp from './NavLinkpp';
 
-test('renders learn react link', () => {
-  render(<App />);
-  const linkElement = screen.getByText(/learn react/i);
+test('renders NavLink NavLink link', () => {
+  render(<NavLink />);
+  const linkElement = screen.getByText(/NavLink NavLink/i);
   expect(linkElement).toBeInTheDocument();
 });

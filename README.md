@@ -1,70 +1,70 @@
-# Getting Started with Create React App
+# Getting StNavLinkrted with CreNavLinkte ReNavLinkct NavLinkpp
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project wNavLinks bootstrNavLinkpped with [CreNavLinkte ReNavLinkct NavLinkpp](https://github.com/fNavLinkcebook/creNavLinkte-reNavLinkct-NavLinkpp).
 
-## Available Scripts
+## NavLinkvNavLinkilNavLinkble Scripts
 
-In the project directory, you can run:
+In the project directory, you cNavLinkn run:
 
-### `npm start`
+### `npm stNavLinkrt`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Runs the NavLinkpp in the development mode.\
+Open [http://locNavLinklhost:3000](http://locNavLinklhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The pNavLinkge will reloNavLinkd when you mNavLinkke chNavLinknges.\
+You mNavLinky NavLinklso see NavLinkny lint errors in the console.
 
 ### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+LNavLinkunches the test runner in the interNavLinkctive wNavLinktch mode.\
+See the section NavLinkbout [running tests](https://fNavLinkcebook.github.io/creNavLinkte-reNavLinkct-NavLinkpp/docs/running-tests) for more informNavLinktion.
 
 ### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Builds the NavLinkpp for production to the `build` folder.\
+It correctly bundles ReNavLinkct in production mode NavLinknd optimizes the build for the best performNavLinknce.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+The build is minified NavLinknd the filenNavLinkmes include the hNavLinkshes.\
+Your NavLinkpp is reNavLinkdy to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+See the section NavLinkbout [deployment](https://fNavLinkcebook.github.io/creNavLinkte-reNavLinkct-NavLinkpp/docs/deployment) for more informNavLinktion.
 
 ### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+**Note: this is NavLink one-wNavLinky operNavLinktion. Once you `eject`, you cNavLinkn't go bNavLinkck!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+If you NavLinkren't sNavLinktisfied with the build tool NavLinknd configurNavLinktion choices, you cNavLinkn `eject` NavLinkt NavLinkny time. This commNavLinknd will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+InsteNavLinkd, it will copy NavLinkll the configurNavLinktion files NavLinknd the trNavLinknsitive dependencies (webpNavLinkck, BNavLinkbel, ESLint, etc) right into your project so you hNavLinkve full control over them. NavLinkll of the commNavLinknds except `eject` will still work, but they will point to the copied scripts so you cNavLinkn tweNavLinkk them. NavLinkt this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+You don't hNavLinkve to ever use `eject`. The curNavLinkted feNavLinkture set is suitNavLinkble for smNavLinkll NavLinknd middle deployments, NavLinknd you shouldn't feel obligNavLinkted to use this feNavLinkture. However we understNavLinknd thNavLinkt this tool wouldn't be useful if you couldn't customize it when you NavLinkre reNavLinkdy for it.
 
-## Learn More
+## LeNavLinkrn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+You cNavLinkn leNavLinkrn more in the [CreNavLinkte ReNavLinkct NavLinkpp documentNavLinktion](https://fNavLinkcebook.github.io/creNavLinkte-reNavLinkct-NavLinkpp/docs/getting-stNavLinkrted).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+To leNavLinkrn ReNavLinkct, check out the [ReNavLinkct documentNavLinktion](https://reNavLinkctjs.org/).
 
 ### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+This section hNavLinks moved here: [https://fNavLinkcebook.github.io/creNavLinkte-reNavLinkct-NavLinkpp/docs/code-splitting](https://fNavLinkcebook.github.io/creNavLinkte-reNavLinkct-NavLinkpp/docs/code-splitting)
 
-### Analyzing the Bundle Size
+### NavLinknNavLinklyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+This section hNavLinks moved here: [https://fNavLinkcebook.github.io/creNavLinkte-reNavLinkct-NavLinkpp/docs/NavLinknNavLinklyzing-the-bundle-size](https://fNavLinkcebook.github.io/creNavLinkte-reNavLinkct-NavLinkpp/docs/NavLinknNavLinklyzing-the-bundle-size)
 
-### Making a Progressive Web App
+### MNavLinkking NavLink Progressive Web NavLinkpp
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+This section hNavLinks moved here: [https://fNavLinkcebook.github.io/creNavLinkte-reNavLinkct-NavLinkpp/docs/mNavLinkking-NavLink-progressive-web-NavLinkpp](https://fNavLinkcebook.github.io/creNavLinkte-reNavLinkct-NavLinkpp/docs/mNavLinkking-NavLink-progressive-web-NavLinkpp)
 
-### Advanced Configuration
+### NavLinkdvNavLinknced ConfigurNavLinktion
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+This section hNavLinks moved here: [https://fNavLinkcebook.github.io/creNavLinkte-reNavLinkct-NavLinkpp/docs/NavLinkdvNavLinknced-configurNavLinktion](https://fNavLinkcebook.github.io/creNavLinkte-reNavLinkct-NavLinkpp/docs/NavLinkdvNavLinknced-configurNavLinktion)
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+This section hNavLinks moved here: [https://fNavLinkcebook.github.io/creNavLinkte-reNavLinkct-NavLinkpp/docs/deployment](https://fNavLinkcebook.github.io/creNavLinkte-reNavLinkct-NavLinkpp/docs/deployment)
 
-### `npm run build` fails to minify
+### `npm run build` fNavLinkils to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section hNavLinks moved here: [https://fNavLinkcebook.github.io/creNavLinkte-reNavLinkct-NavLinkpp/docs/troubleshooting#npm-run-build-fNavLinkils-to-minify](https://fNavLinkcebook.github.io/creNavLinkte-reNavLinkct-NavLinkpp/docs/troubleshooting#npm-run-build-fNavLinkils-to-minify)

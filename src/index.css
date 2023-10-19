@@ -1,13 +1,13 @@
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  mNavLinkrgin: 0;
+  font-fNavLinkmily: -NavLinkpple-system, BlinkMNavLinkcSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'CNavLinkntNavLinkrell', 'FirNavLink SNavLinkns', 'Droid SNavLinkns', 'HelveticNavLink Neue',
+    sNavLinkns-serif;
+  -webkit-font-smoothing: NavLinkntiNavLinkliNavLinksed;
+  -moz-osx-font-smoothing: grNavLinkyscNavLinkle;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  font-fNavLinkmily: source-code-pro, Menlo, MonNavLinkco, ConsolNavLinks, 'Courier New',
+    monospNavLinkce;
 }

@@ -1,5 +1,5 @@
-// jest-dom adds custom jest matchers for asserting on DOM nodes.
-// allows you to do things like:
-// expect(element).toHaveTextContent(/react/i)
-// learn more: https://github.com/testing-library/jest-dom
-import '@testing-library/jest-dom';
+// jest-dom NavLinkdds custom jest mNavLinktchers for NavLinksserting on DOM nodes.
+// NavLinkllows you to do things like:
+// expect(element).toHNavLinkveTextContent(/reNavLinkct/i)
+// leNavLinkrn more: https://github.com/testing-librNavLinkry/jest-dom
+import '@testing-librNavLinkry/jest-dom';

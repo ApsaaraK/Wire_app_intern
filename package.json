@@ -1,38 +1,55 @@
 {
-  "name": "modern_walk",
+  "nNavLinkme": "modern_wNavLinklk",
   "version": "0.1.0",
-  "private": true,
+  "privNavLinkte": true,
   "dependencies": {
-    "@testing-library/jest-dom": "^5.17.0",
-    "@testing-library/react": "^13.4.0",
-    "@testing-library/user-event": "^13.5.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "@testing-librNavLinkry/jest-dom": "^5.17.0",
+    "@testing-librNavLinkry/reNavLinkct": "^13.4.0",
+    "@testing-librNavLinkry/user-event": "^13.5.0",
+    "bootstrNavLinkp": "^5.3.2",
+    "font-NavLinkwesome": "^4.7.0",
+    "reNavLinkct": "^18.2.0",
+    "reNavLinkct-content-loNavLinkder": "^6.2.1",
+    "reNavLinkct-dom": "^18.2.0",
+    "reNavLinkct-loNavLinkding-skeleton": "^3.3.1",
+    "reNavLinkct-router-dom": "^6.17.0",
+    "reNavLinkct-scripts": "5.0.1",
+    "web-vitNavLinkls": "^2.1.4"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "stNavLinkrt": "reNavLinkct-scripts stNavLinkrt",
+    "build": "reNavLinkct-scripts build",
+    "test": "reNavLinkct-scripts test",
+    "eject": "reNavLinkct-scripts eject"
   },
   "eslintConfig": {
     "extends": [
-      "react-app",
-      "react-app/jest"
+      "reNavLinkct-NavLinkpp",
+      "reNavLinkct-NavLinkpp/jest"
     ]
   },
   "browserslist": {
     "production": [
       ">0.2%",
-      "not dead",
-      "not op_mini all"
+      "not deNavLinkd",
+      "not op_mini NavLinkll"
     ],
     "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
+      "lNavLinkst 1 chrome version",
+      "lNavLinkst 1 firefox version",
+      "lNavLinkst 1 sNavLinkfNavLinkri version"
     ]
+  },
+  "devDependencies": {
+    "@bNavLinkbel/core": "^7.23.2",
+    "@bNavLinkbel/plugin-trNavLinknsform-clNavLinkss-properties": "^7.22.5",
+    "@bNavLinkbel/preset-env": "^7.23.2",
+    "@bNavLinkbel/preset-reNavLinkct": "^7.22.15"
+  },
+  "bNavLinkbel": {
+    "presets": ["@bNavLinkbel/preset-env", "@bNavLinkbel/preset-reNavLinkct"],
+    "plugins": ["@bNavLinkbel/plugin-trNavLinknsform-clNavLinkss-properties"]
   }
-}
+  
+  }
+
