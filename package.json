@@ -1,55 +1,58 @@
 {
-  "nNavLinkme": "modern_wNavLinklk",
+  "name": "modern_walk",
   "version": "0.1.0",
-  "privNavLinkte": true,
+  "private": true,
   "dependencies": {
-    "@testing-librNavLinkry/jest-dom": "^5.17.0",
-    "@testing-librNavLinkry/reNavLinkct": "^13.4.0",
-    "@testing-librNavLinkry/user-event": "^13.5.0",
-    "bootstrNavLinkp": "^5.3.2",
-    "font-NavLinkwesome": "^4.7.0",
-    "reNavLinkct": "^18.2.0",
-    "reNavLinkct-content-loNavLinkder": "^6.2.1",
-    "reNavLinkct-dom": "^18.2.0",
-    "reNavLinkct-loNavLinkding-skeleton": "^3.3.1",
-    "reNavLinkct-router-dom": "^6.17.0",
-    "reNavLinkct-scripts": "5.0.1",
-    "web-vitNavLinkls": "^2.1.4"
+    "@testing-library/jest-dom": "5.17.0",
+    "@testing-library/react": "13.4.0",
+    "@testing-library/user-event": "13.5.0",
+    "bootstrap": "5.3.2",
+    "font-awesome": "4.7.0",
+    "react": "18.2.0",
+    "react-content-loader": "6.2.1",
+    "react-dom": "18.2.0",
+    "react-loading-skeleton": "3.3.1",
+    "react-router-dom": "6.17.0",
+    "web-vitals": "2.1.4"
   },
   "scripts": {
-    "stNavLinkrt": "reNavLinkct-scripts stNavLinkrt",
-    "build": "reNavLinkct-scripts build",
-    "test": "reNavLinkct-scripts test",
-    "eject": "reNavLinkct-scripts eject"
+    "start": "react-scripts start",
+    "test": "react-scripts test",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
-      "reNavLinkct-NavLinkpp",
-      "reNavLinkct-NavLinkpp/jest"
+      "react-app",
+      "react-app/jest"
     ]
   },
   "browserslist": {
     "production": [
       ">0.2%",
-      "not deNavLinkd",
-      "not op_mini NavLinkll"
+      "not dead",
+      "not op_mini all"
     ],
     "development": [
-      "lNavLinkst 1 chrome version",
-      "lNavLinkst 1 firefox version",
-      "lNavLinkst 1 sNavLinkfNavLinkri version"
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
     ]
   },
   "devDependencies": {
-    "@bNavLinkbel/core": "^7.23.2",
-    "@bNavLinkbel/plugin-trNavLinknsform-clNavLinkss-properties": "^7.22.5",
-    "@bNavLinkbel/preset-env": "^7.23.2",
-    "@bNavLinkbel/preset-reNavLinkct": "^7.22.15"
+    "@babel/core": "7.23.2",
+    "@babel/plugin-transform-class-properties": "7.22.5",
+    "@babel/preset-env": "7.23.2",
+    "@babel/preset-react": "7.22.15",
+    "react-scripts": "^5.0.1"
   },
-  "bNavLinkbel": {
-    "presets": ["@bNavLinkbel/preset-env", "@bNavLinkbel/preset-reNavLinkct"],
-    "plugins": ["@bNavLinkbel/plugin-trNavLinknsform-clNavLinkss-properties"]
+  "babel": {
+    "presets": [
+      "@babel/preset-env",
+      "@babel/preset-react"
+    ],
+    "plugins": [
+      "@babel/plugin-transform-class-properties"
+    ]
   }
-  
-  }
-
+}
